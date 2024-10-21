@@ -294,6 +294,12 @@ li.logo span {
   width: 95%;
 }
 
+.container ul li {
+  line-height: 200%;
+  list-style-type: disc;
+  margin-left: 24px;
+}
+
 h3 {
   font-weight: 200;
   margin-bottom: 60px;
